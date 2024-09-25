@@ -1,9 +1,9 @@
 1.-Inicio.
-2.-Altura = ¿Cual es la altura del rectangulo?
-3.-Leer Altura.
-4.-Base = ¿Cual es la base del rectangulo?
-5.-Leer Base.
-6.-Perimetro = (Base + Altura) * 2
-7.-Area = Base * Altura
-8.-Mostrar "El perímetro del rectagunlo es Perimetro y el area del rectangulo es Area"
+2.-altura = ¿Cual es la altura del rectangulo?
+3.-leer altura.
+4.-base = ¿Cual es la base del rectangulo?
+5.-Leer base.
+6.-perimetro = (base + altura) * 2
+7.-area = base * altura
+8.-Mostrar "El perímetro del rectagunlo es perimetro y el area del rectangulo es area"
 9.-Fin
