@@ -5,5 +5,5 @@
 5.-leer Base.
 6.-Perimetro = (Base + Altura) * 2
 7.-Area = Base * Altura
-8.-Mostrar "El perímetro del rectagunlo es Perimetro y el area del rectangulo es Area"
+8.-Mostrar "El perímetro del rectagunlo es " Perimetro "y el area del rectangulo es" Area
 9.-Fin
