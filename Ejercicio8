@@ -1,1 +1,10 @@
-
+1.-Inicio
+2.-Sueldobase = Cual es tu sueldo base
+3.-Leer Sueldobase
+4.-Comisiones = Cuantas comisiones has obtenido en el mes.
+5.-Leer Comisiones
+6.-Comisionfinal = 10 * Comisiones
+7.-Sueldoextrae = 100 * Sueldobase/Comisionfinal
+8.-Sueldofinal = Sueldobase + Sueldoextra
+9.-Mostrar "El sueldo final del vendedor es " Sueldofinal
+10.-Fin
