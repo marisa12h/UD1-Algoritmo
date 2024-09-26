@@ -1,10 +1,19 @@
 1.-Inicio
 2.-Sueldobase = Cual es tu sueldo base
 3.-Leer Sueldobase
-4.-Comisiones = Cuantas comisiones has obtenido en el mes.
-5.-Leer Comisiones
-6.-Comisionfinal = 10 * Comisiones
-7.-Sueldoextra = Comisionfinal * Sueldobase/100
-8.-Sueldofinal = Sueldobase + Sueldoextra
+4.-Venta1 = Cuanto dinero has ganado con está primera venta
+5.-Leer Venta1
+5.-Venta2 = Cuanto dinero has ganado con está segunda venta
+6.-Leer Venta2
+7.-Venta3 = Cuando dinero has ganado con está tercera venta
+8.-Leer Venta3
+9.-Comision1 = 10 * Venta1 /100
+10.-Leer Comision1
+11.-Comision2 = 10 * Venta2 /100
+12.-Leer Comision2
+13.-Comision3 = 10 * Venta3 /100
+14.-Comisionfinal = Comision1 + Comision2 + Comision3
+8.-Sueldofinal = Sueldobase + Comisionfinal
 9.-Mostrar "El sueldo final del vendedor es " Sueldofinal
 10.-Fin
+//Las comisiones hay que preguntar por cuanto vendio y de ahí sacar cuanto ha ganado en cada comision.
