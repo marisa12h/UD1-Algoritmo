@@ -1,8 +1,8 @@
 1.-Inicio
-2.-primercateto = Dime lo que mide el primer cateto
-3.-Leer primercateto
-4.-segundocateto = Dime lo que mide el segundo cateto.
-5.-leer segundocateto
-6.-Hipotenusa = raizcuadrada(primercateto^2 + segundocateto^2)
-7.-mostrar "La hipotenusa del triangulo rectangulo es" Hipotenusa
+2.-Escribir "Dime el primer cateto: "
+3.-Leer cateto1
+4.-Escribir "Dime el segundo cateto: "
+5.-Leer cateto2
+6.-hipotenusa = raiz(cateto1^2 + cateto2^2)
+7.-Mostrar "La hipotenusa del triangulo rectangulo es " hipotenusa
 8.-Fin
