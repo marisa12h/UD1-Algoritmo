@@ -3,4 +3,5 @@
 3.-leer minutos
 4.-horas = Minutos/60
 5.-MinutosRestantes = horas*3600/60
-6.-Mostrar "Los Minutos
+6.-Mostrar "Los" Minutos "minutos son" horas "horas y" MinutosRestantes "minutos"
+7.-Fin
