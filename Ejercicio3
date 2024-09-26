@@ -3,6 +3,6 @@
 3.-leer primercateto
 4.-segundocateto = Dime lo que mide el segundo cateto.
 5.-leer segundocateto
-6.-Hipotenusa = raiz(primercateto^ + segundocateto^)
+6.-Hipotenusa = raizcuadrada(primercateto^ + segundocateto^)
 7.-mostrar "La hipotenusa del triangulo rectangulo es Hipotenusa"
 8.-Fin
