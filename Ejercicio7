@@ -1,3 +1,6 @@
 1.-Inicio
 2.-Minutos = Dime una cantidad de minutos
 3.-leer minutos
+4.-horas = Minutos/60
+5.-MinutosRestantes = horas*3600/60
+6.-Mostrar "Los Minutos
