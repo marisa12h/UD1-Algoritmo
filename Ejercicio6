@@ -1,10 +1,10 @@
 1-Inicio
-2.-numero1 = Dime un numero
-3.-leer numero1
-4.-numero2 = Dime otro numero
-5.-leer numero2
-6.-numero3 = Dime un ultimo numero
-7.-leer numero3
-8.-Media = (numero1 + numero2 + numero3) /3
-9.-Mostrar "La media de los tres numeros es" Media
+2.-Escribir "Dime el primer numero: ";
+3.-Leer numero1;
+4.-Escribir "Dime el segundo numero: ";
+5.-Leer numero2;
+6.-Escribir "Dime el tercer numero: ";
+7.-Leer numero3;
+8.-media = (numero1 + numero2 + numero3) /3;
+9.-Mostrar "La media de los tres numeros es" Media;
 10.-Fin
