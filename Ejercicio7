@@ -1,7 +1,7 @@
 1.-Inicio
-2.-Escribir
-3.-leer minutos
-4.-horas = Minutos/60
-5.-MinutosRestantes = horas*3600/60
-6.-Mostrar "Los" Minutos "minutos son" horas "horas y" MinutosRestantes "minutos"
+2.-Escribir "Dime una cantidad exacta de minutos: ";
+3.-Leer minutos;
+4.-horas = Minutos/60;
+5.-minutosrestantes = minutos % 60;
+6.-Escribir "Los" minutos "minutos son" horas "horas y" minutosrestantes "minutos";
 7.-Fin
