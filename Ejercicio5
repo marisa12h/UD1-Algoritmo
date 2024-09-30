@@ -2,5 +2,5 @@
 2.-Escribir "Dime un numero de grados Farenheit: ";
 3.-Leer gradosF;
 4.-celsius = (gradosF - 32)*5/9;
-5.-Mostrar "Los grados " gradosF " grados Farenheit son " celsius " grados celsius";
+5.-Escribir "Los grados " gradosF " grados Farenheit son " celsius " grados celsius";
 6.-Fin.
