@@ -4,5 +4,5 @@
 4.-Escribir "Dime el segundo cateto: ";
 5.-Leer cateto2;
 6.-hipotenusa = raiz(cateto1^2 + cateto2^2);
-7.-Mostrar "La hipotenusa del triangulo rectangulo es " hipotenusa;
+7.-Escribir "La hipotenusa del triangulo rectangulo es " hipotenusa;
 8.-Fin
