@@ -1,1 +1,7 @@
-
+1.-Inicio.
+2.-Escribir "Cuanto dinero te ha costado la compra: ";
+3.-Leer preciocompra;
+4.-descuento = 15 * preciocompra /100;
+5.-preciofinal = preciocompra - descuento;
+6.-Escribir "El cliente se gastara en su compra " preciofinal " euros";
+7.-Fin.
