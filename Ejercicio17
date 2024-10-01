@@ -1,0 +1,16 @@
+Inicio
+Escribir "Dime a que hora saliste de tu ciudad: ";
+Leer horadesalida;
+Leer minutosdesalida;
+Leer segundosdesalida;
+Escribir "Dime lo que tardaste en llegar a la otra ciudad en segundos: ";
+Leer llegadaensegundos;
+horaensegundos = horadesalida * 3600;
+minutosensegundos = minutosdesalida * 60;
+totalsegundossalida = horaensegundos + minutosensegundos + segundosdesalida;
+horallegada = totalsegundossalida + llegadaensegundos;
+pasarahora = horallegada /3600;
+pasaraminutos = (horallegada % 3600) /60;
+pasarasegundos = (horallegada % 3600) % 60;
+Escribir "La hora de llegada a la otra ciudad es " pasarahora " horas " pasaraminutos " minutos y " pasarasegundos " segundos "; 
+Fin
