@@ -1,3 +1,5 @@
+//6. Calcular la media de tres números pedidos por teclado.
+
 Inicio
 Escribir "Dime el primer numero: ";
 Leer numero1;
