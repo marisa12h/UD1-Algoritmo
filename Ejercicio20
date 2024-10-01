@@ -1,0 +1,15 @@
+Inicio
+Escribir "Cuantas monedas tienes de 2 euros: ";
+Leer doseuros;
+Escribir "Cuantas monedas tienes de 1 euros: ";
+Leer uneuro;
+Escribir "Cuantas monedas tienes de 50 centimos: ";
+Leer cincuentacentimos;
+Escribir "Cuantas monedas tienes de 20 centimos: ";
+Leer veintecentimos;
+Escribir "Cuantas monedas tienes de 10 centimos: ";
+Leer diezcentimos;
+totaleuros = (doseuros * 2) + uneuro;
+centimostotal = (cincuentacentimos * 0.50) + (veintecentimos * 0.25) + (diezcentimos * 0.10);
+Escribir "Tenemos " totaleuros " euros y " centimostotal " centimos";
+Fin
