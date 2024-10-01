@@ -1,9 +1,9 @@
-1.-Inicio.
-2.-Escribir "Cual es la altura del rectangulo: ";
-3.-Leer altura;
-4.-Escribir "Cual es la base del rectangulo: ";
-5.-Leer base;
-6.-perimetro = (base + altura) * 2;
-7.-area = base * altura;
-8.-Escribir "El perímetro del rectagunlo es " perimetro "y el area del rectangulo es" area;
-9.-Fin
+Inicio.
+Escribir "Cual es la altura del rectangulo: ";
+Leer altura;
+Escribir "Cual es la base del rectangulo: ";
+Leer base;
+perimetro = (base + altura) * 2;
+area = base * altura;
+Escribir "El perímetro del rectagunlo es " perimetro "y el area del rectangulo es" area;
+Fin
