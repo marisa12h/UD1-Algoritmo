@@ -1,7 +1,7 @@
-Inicio.
+Inicio
 Escribir "Cuanto dinero te ha costado la compra: ";
 Leer preciocompra;
 descuento = 15 * preciocompra /100;
 preciofinal = preciocompra - descuento;
 Escribir "El cliente se gastara en su compra " preciofinal " euros";
-Fin.
+Fin
