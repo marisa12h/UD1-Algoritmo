@@ -1,5 +1,5 @@
-1.-Inicio
-2.-Escribir "¿Cual es tu nombre?: ";
-3.-Leer nombre;
-4.-Escribir "Hola," nombre;
-5.-Fin
+Inicio
+Escribir "¿Cual es tu nombre?: ";
+Leer nombre;
+Escribir "Hola," nombre;
+Fin
