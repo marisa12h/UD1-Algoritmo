@@ -1,6 +1,8 @@
+Inicio
 Escribir "Dime un numero: ";
 Leer numero1;
 Escribir "Dime otro numero: ";
 Leer numero2;
 distancia = abs(numero1 - numero2);
 Escribir "La distancia entre los dos numeros es " distancia;
+Fin
