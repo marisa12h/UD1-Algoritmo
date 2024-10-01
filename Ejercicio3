@@ -1,3 +1,5 @@
+//3. Dados los catetos de un triángulo rectángulo, calcular su hipotenusa.
+
 Inicio
 Escribir "Dime el primer cateto: ";
 Leer cateto1;
