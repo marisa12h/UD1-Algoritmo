@@ -1,0 +1,10 @@
+Inicio
+Escribir "Dime cuantas respuestas has tenido correctas: ";
+Leer respuestascorrectas;
+Escribir "Dime cuantas respuestas has tenido incorrectas: ";
+Leer respuestasincorrectas;
+Escribir "Dime cuentas respuestas has dejado en blanco: ";
+Leer respuestasenblanco;
+calificacion = (respuestascorrectas * 5) + (respuestasincorrectas * (-1)) + (respuestasenblanco * 0);
+Escribir "La calificación que obtiene es " calificacion " puntos ";
+Fin
