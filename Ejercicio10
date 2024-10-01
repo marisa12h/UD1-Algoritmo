@@ -1,0 +1,18 @@
+Inicio.
+Escribir "Dime cual es la nota de tu primer parcial: ";
+Leer parcial1;
+Escribir "Dime cual es la nota de tu segundo parcial: ";
+Leer parcial2;
+Escribir "Dime cual es la nota de tu tercer parcial: ";
+Leer parcial3;
+Escribir "Dime cual es la nota de tu examen final: ";
+Leer notaexamenfinal;
+Escribir "Dime cual es la nota de tu trabajo final: ";
+Leer notatrabajofinal;
+parcialespromedio = (parcial1 + parcial2 + parcial3) /3;
+parcialesporciento = 55 * parcialespromedio /100;
+examenfinalporciento = 30 * notaexamenfinal /100;
+trabajofinalporciento = 15 * notatrabajofinal /100;
+calificacionfinal = parcialesporciento + examenfinalporciento + trabajofinalporciento;
+Escribir "La nota final del alumno en la materia de algoritmo es " calificacionfinal;
+Fin.
