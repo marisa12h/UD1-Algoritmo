@@ -1,0 +1,10 @@
+Inicio
+Escribir "Dime los dos numeros del primer punto: ";
+Leer x1;
+Leer y1;
+Escribir "Dime los dos numeros del segundo punto: ";
+Leer x2;
+Leer y2;
+distancia = raiz((x2 - x1)^2 + (y2 - y1)^2);
+Escribir "La distancia entre estos puntos representados en el plano es de " distancia;
+Fin
