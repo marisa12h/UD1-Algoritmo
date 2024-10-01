@@ -1,4 +1,4 @@
-Inicio.
+Inicio
 Escribir "Cual es la altura del rectangulo: ";
 Leer altura;
 Escribir "Cual es la base del rectangulo: ";
