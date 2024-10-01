@@ -1,17 +1,17 @@
-1.-Inicio
-2.-Escribir "Cual es tu sueldo base: ";
-3.-Leer sueldobase;
-4.-Escribir "Cuanto dinero has ganado con está primera venta: ";
-5.-Leer venta1;
-6.-Escribir "Cuanto dinero has ganado con está segunda venta: ";
-7.-Leer venta2;
-8.-Escribir "Cuanto dinero has ganado con está tercera venta: ";
-9.-Leer venta3;
-11.-comision1 = 10 * venta1 /100;
-12.-comision2 = 10 * venta2 /100;
-13.-comision3 = 10 * venta3 /100;
-14.-comisionfinal = comision1 + comision2 * comision3;
-15.-sueldofinal = sueldobase + comisionfinal;
-16.-Escribir "El sueldo final de este vendedor es " sueldofinal;
-17.-Fin
+Inicio
+Escribir "Cual es tu sueldo base: ";
+Leer sueldobase;
+Escribir "Cuanto dinero has ganado con está primera venta: ";
+Leer venta1;
+Escribir "Cuanto dinero has ganado con está segunda venta: ";
+Leer venta2;
+Escribir "Cuanto dinero has ganado con está tercera venta: ";
+Leer venta3;
+comision1 = 10 * venta1 /100;
+comision2 = 10 * venta2 /100;
+comision3 = 10 * venta3 /100;
+comisionfinal = comision1 + comision2 * comision3;
+sueldofinal = sueldobase + comisionfinal;
+Escribir "El sueldo final de este vendedor es " sueldofinal;
+Fin
 
