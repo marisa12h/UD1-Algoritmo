@@ -4,13 +4,13 @@
 //tiempo (minutos) alcanzará el vehículo más rápido al otro
 
 Inicio
-Escribir "Dime la velocidad del primer vehiculo: ";
-Leer velocidadprimercoche;
 Escribir "Dime la velocidad del segundo vehiculo: ";
 Leer velocidadsegundocoche;
+Escribir "Dime la velocidad del primer vehiculo: ";
+Leer velocidadprimercoche;
 Escribir "Cual es la distancia entre ellos: ";
 Leer distancia;
-tiempo = distancia / (velocidadprimercoche - velocidadsegundocoche);
+tiempo = distancia / (velocidadsegundocoche - velocidadprimercoche);
 tiempopasadoaminutos = tiempo * 60;
 Escribir "El tiempo en que alcanzara el coche más rapido al otro es " tiempopasadoaminutos " minutos";
 Fin
